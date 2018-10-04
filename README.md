@@ -13,14 +13,14 @@ We chose to work with python, namely with the networkx library. The entire libra
 ### Reference List
 
 * <b>Introduction</b>: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
-* Graph types: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
-* Algorithms: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
-* Functions: https://networkx.github.io/documentation/networkx-1.9/reference/functions.html
-* Graph Generators: https://networkx.github.io/documentation/networkx-1.9/reference/generators.html
-* Linear Algebra: https://networkx.github.io/documentation/networkx-1.9/reference/linalg.html
-* Converting to and from other data formats: https://networkx.github.io/documentation/networkx-1.9/reference/convert.html
-* Relabeling nodes: https://networkx.github.io/documentation/networkx-1.9/reference/relabel.html
-* Reading and writing graphs: https://networkx.github.io/documentation/networkx-1.9/reference/readwrite.html
-* Drawing: https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html
-* Exceptions: https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html
-* Helper Functions: https://networkx.github.io/documentation/networkx-1.9/reference/utils.html
+* <b>Graph types</b>: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
+* <b>Algorithms</b>: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
+* <b>Functions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/functions.html
+* <b>Graph Generators</b>: https://networkx.github.io/documentation/networkx-1.9/reference/generators.html
+* <b>Linear Algebra</b>: https://networkx.github.io/documentation/networkx-1.9/reference/linalg.html
+* <b>Converting to and from other data formats</b>: https://networkx.github.io/documentation/networkx-1.9/reference/convert.html
+* <b>Relabeling nodes</b>: https://networkx.github.io/documentation/networkx-1.9/reference/relabel.html
+* <b>Reading and writing graphs</b>: https://networkx.github.io/documentation/networkx-1.9/reference/readwrite.html
+* <b>Drawing</b>: https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html
+* <b>Exceptions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html
+* <b>Helper Functions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/utils.html
