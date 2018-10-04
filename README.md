@@ -29,8 +29,8 @@ We chose to work with python, namely with the networkx library. The entire libra
 
 Number        | Name
 ------------- | -------------
-xxxxx         | blank
-xxxxx         | blank
+xxxxx         | Diana
+xxxxx         | Gabriela
 93994         | Ricardo
 
 ## Other link's
