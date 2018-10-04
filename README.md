@@ -12,7 +12,7 @@ We chose to work with python, namely with the networkx library. The entire libra
 
 ### Reference List
 
-* Introduction: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
+* <b>Introduction</b>: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
 * Graph types: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
 * Algorithms: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
 * Functions: https://networkx.github.io/documentation/networkx-1.9/reference/functions.html
