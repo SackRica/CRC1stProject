@@ -10,17 +10,17 @@ Choose one dataset, and analyze it by developing your own network code in your f
 
 We chose to work with python, namely with the networkx library. The entire library can be seen at the following link: https://networkx.github.io/documentation/networkx-1.9/reference/index.html.
 
-### List
+### Reference List
 
-*Introduction: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
-*Graph types: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
-*Algorithms: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
-*Functions: https://networkx.github.io/documentation/networkx-1.9/reference/functions.html
-*Graph Generators: https://networkx.github.io/documentation/networkx-1.9/reference/generators.html
-*Linear Algebra: https://networkx.github.io/documentation/networkx-1.9/reference/linalg.html
-*Converting to and from other data formats: https://networkx.github.io/documentation/networkx-1.9/reference/convert.html
-*Relabeling nodes: https://networkx.github.io/documentation/networkx-1.9/reference/relabel.html
-*Reading and writing graphs: https://networkx.github.io/documentation/networkx-1.9/reference/readwrite.html
-*Drawing: https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html
-*Exceptions: https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html
-*Helper Functions: https://networkx.github.io/documentation/networkx-1.9/reference/utils.html
+* Introduction: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
+* Graph types: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
+* Algorithms: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
+* Functions: https://networkx.github.io/documentation/networkx-1.9/reference/functions.html
+* Graph Generators: https://networkx.github.io/documentation/networkx-1.9/reference/generators.html
+* Linear Algebra: https://networkx.github.io/documentation/networkx-1.9/reference/linalg.html
+* Converting to and from other data formats: https://networkx.github.io/documentation/networkx-1.9/reference/convert.html
+* Relabeling nodes: https://networkx.github.io/documentation/networkx-1.9/reference/relabel.html
+* Reading and writing graphs: https://networkx.github.io/documentation/networkx-1.9/reference/readwrite.html
+* Drawing: https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html
+* Exceptions: https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html
+* Helper Functions: https://networkx.github.io/documentation/networkx-1.9/reference/utils.html
