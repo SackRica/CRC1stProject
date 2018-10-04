@@ -1,6 +1,6 @@
 # CRC1stProject
 
-First project of the Complex Networks Science course.
+First project of the Complex Networks Science course at IST (Instituto Superior Técnico) Alameda. The description of the project can be found on this <a href="https://fenix.tecnico.ulisboa.pt/disciplinas/CRC/2018-2019/1-semestre/project-1">page</a>.
 
 ## Objective
 
