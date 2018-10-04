@@ -27,11 +27,11 @@ We chose to work with python, namely with the networkx library. The entire libra
 
 ## Author's
 
-Number        | Name
+Name        | Number
 ------------- | -------------
-xxxxx         | Diana
-xxxxx         | Gabriela
-93994         | Ricardo
+Diana         | xxxxx
+Gabriela         | xxxxx
+Ricardo         | 93994
 
 ## Other link's
 
