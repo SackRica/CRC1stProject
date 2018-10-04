@@ -9,6 +9,8 @@ Choose one dataset, and analyze it by developing your own network code in your f
 ## Chosen
 
 We chose to work with python, namely with the networkx library. The entire library can be seen at the following link: https://networkx.github.io/documentation/networkx-1.9/reference/index.html.
+
+###List
 *Introduction: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
 *Graph types: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
 *Algorithms: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
