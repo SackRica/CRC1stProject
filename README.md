@@ -8,27 +8,33 @@ Choose one dataset, and analyze it by developing your own network code in your f
 
 ## Chosen
 
-We chose to work with python, namely with the networkx library. The entire library can be seen at the following link: https://networkx.github.io/documentation/networkx-1.9/reference/index.html.
+We chose to work with python, namely with the networkx library. The entire library can be seen <a href="https://networkx.github.io/documentation/networkx-1.9/reference/index.html">here</a>. 
 
 ### Reference List
 
-* <b>Introduction</b>: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
-* <b>Graph types</b>: https://networkx.github.io/documentation/networkx-1.9/reference/classes.html
-* <b>Algorithms</b>: https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html
-* <b>Functions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/functions.html
-* <b>Graph Generators</b>: https://networkx.github.io/documentation/networkx-1.9/reference/generators.html
-* <b>Linear Algebra</b>: https://networkx.github.io/documentation/networkx-1.9/reference/linalg.html
-* <b>Converting to and from other data formats</b>: https://networkx.github.io/documentation/networkx-1.9/reference/convert.html
-* <b>Relabeling nodes</b>: https://networkx.github.io/documentation/networkx-1.9/reference/relabel.html
-* <b>Reading and writing graphs</b>: https://networkx.github.io/documentation/networkx-1.9/reference/readwrite.html
-* <b>Drawing</b>: https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html
-* <b>Exceptions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html
-* <b>Helper Functions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/utils.html
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html"><b>Introduction</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/classes.html"><b>Graph types</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html"><b>Algorithms</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/functions.html"><b>Functions</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/generators.html"><b>Graph Generators</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/linalg.html"><b>Linear Algebra</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/convert.html"><b>Converting to and from other data formats</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/relabel.html"><b>Relabeling nodes</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/readwrite.html"><b>Reading and writing graphs</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html"><b>Drawing</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html"><b>Exceptions</b></a>
+* <a href="https://networkx.github.io/documentation/networkx-1.9/reference/utils.html"><b>Helper Functions</b></a>
 
 ## Author's
 
 Number        | Name
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-93994         | Ricardo Graça
+xxxxx         | blank
+xxxxx         | blank
+93994         | Ricardo
+
+## Other link's
+
+* <b>Discord</b>: https://discord.gg/xfMBjFh
+* <b>OverLeaf</b>: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
+
