@@ -5,15 +5,13 @@ import scipy.stats as ss
 import pylab
 import sys
 
-# Input 1 -> GML file
-
 if __name__ == '__main__':
 
 	# Load graph using gml format
 	file_name = sys.argv[1]
 	G = nx.read_gml(file_name,True)
 
-	# Get an histogram degree
+	# Get the degree of each vertex
 	kv = [k for (v,k) in G.degree()]
 
 	# Change window title
