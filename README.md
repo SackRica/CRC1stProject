@@ -24,3 +24,11 @@ We chose to work with python, namely with the networkx library. The entire libra
 * <b>Drawing</b>: https://networkx.github.io/documentation/networkx-1.9/reference/drawing.html
 * <b>Exceptions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/exceptions.html
 * <b>Helper Functions</b>: https://networkx.github.io/documentation/networkx-1.9/reference/utils.html
+
+## Author's
+
+Number        | Name
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+193994        | Ricardo Graça
