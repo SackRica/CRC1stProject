@@ -4,7 +4,7 @@ First project of the Complex Networks Science course at IST (Instituto Superior 
 
 ## Objective
 
-Choose one dataset, and analyze it by developing your own network code in your favorite language, implementing some of the metrics discussed in the course (as you will see, this is pretty straightforward and may be useful for the second project). You may also use one of the network libraries available (in Python, C/C++, Mathematica, Matlab, etc). This will allow you to analyze larger networks, but not the largest ones.
+Choose one dataset, and analyze it by developing your own network code in your favorite language, implementing some of the metrics discussed in the course (as you will see, this is pretty straightforward and may be useful for the second project). You may also use one of the network libraries available (in <b>Python</b>, C/C++, Mathematica, Matlab, etc). This will allow you to analyze larger networks, but not the largest ones.
 
 ## Chosen
 
@@ -35,6 +35,6 @@ xxxxx         | blank
 
 ## Other link's
 
-* <b>Discord</b>: https://discord.gg/xfMBjFh
-* <b>OverLeaf</b>: https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html
+* <b>Discord</b>: https://discord.gg/eCZTzWj
+* <b>OverLeaf (view)</b>: https://www.overleaf.com/read/nvxvxvwtnwvv
 
