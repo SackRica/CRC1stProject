@@ -6,7 +6,6 @@ import pylab
 import sys
 
 # Input 1 -> GML file
-# Input 2 -> Set to log scale
 
 if __name__ == '__main__':
 
@@ -30,8 +29,7 @@ if __name__ == '__main__':
 
 	# Set histogram
 	kmax = max(kv)
-	log = 'True' == sys.argv[2] if len(sys.argv) > 2 else False
-	plt.hist(kv, bins=kmax+1, range=(0,kmax+1), normed=True, log=log)
+	plt.hist(kv, bins=kmax+1, range=(0,kmax+1), normed=True)
 
 	# Show histogram
 	plt.show()
