@@ -11,7 +11,7 @@ Choose one dataset, and analyze it by developing your own network code in your f
 We chose to work with python, namely with the networkx library. The entire library can be seen <a href="https://networkx.github.io/documentation/networkx-1.9/reference/index.html">here</a>. 
 
 ### Reference List
-
+xxxxx
 * <a href="https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html"><b>Introduction</b></a>
 * <a href="https://networkx.github.io/documentation/networkx-1.9/reference/classes.html"><b>Graph types</b></a>
 * <a href="https://networkx.github.io/documentation/networkx-1.9/reference/algorithms.html"><b>Algorithms</b></a>
@@ -29,8 +29,8 @@ We chose to work with python, namely with the networkx library. The entire libra
 
 Name        | Number
 ------------- | -------------
-Diana         | xxxxx
-Gabriela         | xxxxx
+Diana         | 94121
+Gabriela         | 93952
 Ricardo         | 93994
 
 ## Other link's
