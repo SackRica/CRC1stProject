@@ -1,4 +1,4 @@
-fid = fopen('outfb.txt');
+fid = fopen('../../fb_edgeList.txt');
 C = textscan(fid,'%d%d%d');
 FromNode = C{1};
 ToNode = C{2};
