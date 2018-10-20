@@ -1,0 +1,13 @@
+fid = fopen('outfb.txt');
+C = textscan(fid,'%d%d%d');
+FromNode = C{1};
+ToNode = C{2};
+G = graph(FromNode, ToNode);
+p = plot(G);
+Centrality_values = centrality(G, 'degree');
+Centrality_values = Centrality_values/length(Centrality_values)-1;
+G.Nodes.NodeColors = Centrality_values;
+p.NodeCData = G.Nodes.NodeColors;
+p.EdgeAlpha=0;
+p.MarkerSize = Centrality_values*1000;
+fclose(fid);
