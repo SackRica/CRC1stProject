@@ -5,7 +5,6 @@ ToNode = C{2};
 G = graph(FromNode, ToNode);
 p = plot(G);
 Centrality_values = centrality(G, 'closeness');
-Centrality_values = Centrality_values;
 G.Nodes.NodeColors = Centrality_values;
 p.NodeCData = G.Nodes.NodeColors;
 p.EdgeAlpha=0;
