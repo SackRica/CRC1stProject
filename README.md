@@ -8,7 +8,7 @@ Choose one dataset, and analyze it by developing your own network code in your f
 
 ## Chosen
 
-We chose to work with python, namely with the networkx library. The entire library can be seen <a href="https://networkx.github.io/documentation/networkx-1.9/reference/index.html">here</a>. 
+We chose to work with python, namely with the networkx library. The entire library can be seen <a href="https://networkx.github.io/documentation/networkx-1.9/reference/index.html">here</a>. However, some of the results were taking to much time so we also used Igraph on R and Matlab to plot the graphs.
 
 ### Reference List
 * <a href="https://networkx.github.io/documentation/networkx-1.9/reference/introduction.html"><b>Introduction</b></a>
